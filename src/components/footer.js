@@ -33,7 +33,7 @@ function Footer() {
           </span>
           <span>
             <a
-              href="https://github.com/adilovesmom"
+              href="https://github.com/adilovemom"
               target="_blank"
               rel="noopener noreferrer"
             >
